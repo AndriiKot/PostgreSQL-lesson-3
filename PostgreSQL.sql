@@ -1,5 +1,5 @@
-﻿DB 
-PosgreSQL
+--DB 
+--PosgreSQL
 
 select
   amount
